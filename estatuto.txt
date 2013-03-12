@@ -1,7 +1,3 @@
-Voltar ao estatuto: [[estatutomate]]
-* FIXME: Aqui  no Padeiro tem o plugin 'linkify', estes links de markdown no formato  [[matehackers]] fazem  links para outros pads.
-* Acho que conselho Manda-Chuva e outros "termos" ficam muito parecido com o GaroaHC, acho que deverímos ter denominações exclusivas, a única coisa que me ocorre é algo do tipo "Conselho Supremo" (acho que estou meio sem criatividade no momento...) :P
-= Esboço do estatuto =
 CAPÍTULO I
 DA DENOMINAÇÃO, SEDE E FINS
 Art.2o
