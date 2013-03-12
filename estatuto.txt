@@ -1,4 +1,5 @@
 MODELO DE ESTATUTO DE ASSOCIAÇÃO
+
 CAPÍTULO I
 DA DENOMINAÇÃO,SEDE E FINS
 Art.1o – O "MateHackers" também designado pela sigla, MHCKRS, fundado em .......... de ............... de ............. é uma associação civil, sem fins lucrativos, que terá duração por tempo indeterminado, sede no Município de Porto Alegre, Estado do Rio Grande do Sul, na Avenida Independência 330, sala 206, Bairro Independência e foro em Porto Alegre. 
@@ -6,13 +7,9 @@ Art.2o - O Matehackers tem por finalidades, estimular a melhoria técnica, profi
 Art.3o – No desenvolvimento de suas atividades, a Associação não fará qualquer discriminação de raça, cor, sexo, religião ou de qualquer espécie.
 Art.4o – A Associação terá um Regimento Interno, que aprovado pela Assembléia Geral, disciplinará o seu funcionamento. 
 Art.5o – A fim de cumprir suas finalidades, a Associação poderá organizar-se em tantas unidades de prestação de serviços, quantas se fizerem necessárias, as quais se regerão pelo Regimento Interno. Entre as atividades que o MHCKRS poderá desenvolver no cumprimeto de suas finalidades poderá (mas não resumido a):
-
     prover infraestrutura física e lógica, espaço, equipamentos, ferramentas, materiais e serviços para a realização de atividades, por livre iniciativa individual ou em grupo;
-
     realizar atividades de disseminação do conhecimento técnico-científico e  artístico na forma de estudos, análises, eventos, reuniões, exposições, oficinas, cursos, seminários, congressos, treinamentos, produções  audiovisuais, páginas eletrônicas, material informativo e publicações  para seus Associados e para o público em geral;
-
     organizar eventos culturais, sociais, artísticos e recreativos com o objetivo de promover a socialização entre seus Associados e deles com o público em geral; e
-
     relacionar-se com entidades, nacionais ou estrangeiras, de caráter público ou privado, apoio financeiro sempre em conformidade com a legislação em vigor.
 
 CAPÍTULO II
@@ -32,6 +29,7 @@ I – cumprir as disposições estatutárias e regimentais;
 II – acatar as determinações da Diretoria. 
 Parágrafo único. Havendo justa causa, o associado poderá ser demitido ou excluído da Associação por decisão da diretoria, após o exercício do direito de defesa. Da decisão caberá recurso à assembléia geral.
 Art. 10o – Os associados da entidade não respondem, nem mesmo subsidiariamente, pelas obrigações e encargos sociais da instituição.
+
 CAPÍTULO III
 DA ADMINISTRAÇÃO
 Art. 11o – A Associação será administrada por:
@@ -111,15 +109,18 @@ Parágrafo Único – O Conselho reunir-se-á ordinariamente a cada (número) ..
 Art. 28o – As atividades dos diretores e conselheiros, bem como as dos associados, serão inteiramente gratuitas, sendo-lhes vedado o recebimento de qualquer lucro, gratificação, bonificação ou vantagem.
 Art. 29o – A instituição não distribuirá lucros, resultados, dividendos, bonificações, participações ou parcela de seu patrimônio, sob nenhuma forma ou pretexto.
 Art. 30o – A Associação se manterá através de contribuições dos associados e de outras atividades, sendo que essas rendas, recursos e eventual resultado operacional serão aplicados integralmente na manutenção e  desenvolvimento dos objetivos institucionais, no território nacional.
+
 CAPÍTULO IV
 DO PATRIMÔNIO
 Art. 31o – O Patrimônio da Associação será constituído de bens móveis, imóveis, veículos, semoventes, ações e apólices de dívida pública.
 Art. 32o – No caso de dissolução da Instituição, os bens remanescentes serão destinados a outra instituição congênere, com personalidade jurídica, que esteja registrada no Conselho Nacional de Assistência Social – CNAS ou entidade Pública.
+
 CAPÍTULO V
 DAS DISPOSIÇÕES GERAIS
 Art. 33o – A Associação será dissolvida por decisão da Assembléia Geral Extraordinária, especialmente convocada para esse fim, quando se tornar impossível a continuação de suas atividades.
 Art. 34o – O presente estatuto poderá ser reformado, em qualquer tempo, por decisão de 2/3 (dois terços) dos presentes à assembléia geral especialmente convocada para esse fim, não podendo ela deliberar, em primeira convocação, sem a maioria absoluta dos associados, ou com menos de 1/3 (um terço) nas convocações seguintes, e entrará em vigor na data de seu registro em Cartório. 
 Art. 35o – Os casos omissos serão resolvidos pela Diretoria e referendados pela Assembléia Geral. 
+
 O presente estatuto foi aprovado pela assembléia geral realizada no dia ...../...../........ .
 Porto Alegre , ............ de ...................... de ............. .
 Nome e assinatura do presidente (reconhecer firma)
